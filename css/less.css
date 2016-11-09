@@ -1,0 +1,62 @@
+.col-s-1 {
+  width: 200px;
+}
+.col-s-2 {
+  width: 400px;
+}
+.col-s-3 {
+  width: 600px;
+}
+.col-s-4 {
+  width: 800px;
+}
+.col-s-5 {
+  width: 1000px;
+}
+.col-s-6 {
+  width: 1200px;
+}
+.col-s-7 {
+  width: 1400px;
+}
+.col-s-8 {
+  width: 1600px;
+}
+.col-s-9 {
+  width: 1800px;
+}
+div {
+  -webkit-border-radius: 20% 20% 50% 50%;
+  -mos-border-radius: 20% 20% 50% 50%;
+  -ms-border-radius: 20% 20% 50% 50%;
+  -o-border-radius: 20% 20% 50% 50%;
+  border-radius: 20% 20% 50% 50%;
+  background: red;
+  width: 100px;
+  height: 200px;
+  border: 1px solid red;
+  -webkit-box-shadow: 0 0 10px yellow ;
+  -ms-box-shadow: 0 0 10px yellow ;
+  -o-box-shadow: 0 0 10px yellow ;
+  -moz-box-shadow: 0 0 10px yellow ;
+  box-shadow: 0 0 10px yellow ;
+  -webkit-box-shadow: 0 0 10px blue inset;
+  -ms-box-shadow: 0 0 10px blue inset;
+  -o-box-shadow: 0 0 10px blue inset;
+  -moz-box-shadow: 0 0 10px blue inset;
+  box-shadow: 0 0 10px blue inset;
+}
+span {
+  color: #ccc;
+}
+.box1 {
+  width: 500px;
+  height: 500px;
+  border: 1px solid red;
+  margin: 0 auto;
+  border-image-source: url("../1.jpg");
+  border-image-width: 50px 50px ;
+  border-image-slice: 33.33333%;
+  border-image-repeat: round;
+  border-image-outset: 10px;
+}
