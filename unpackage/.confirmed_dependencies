@@ -1,0 +1,183 @@
+{
+	"index.html": {
+		"resources": [
+			"img/boy2.jpg",
+			"js/swiper.jquery.js",
+			"img/boy5.jpg",
+			"js/swiper.animate1.0.2.min.js",
+			"img/boy4.jpg",
+			"img/boy3.jpg",
+			"css/animate.css",
+			"img/girl6.jpg",
+			"css/swiper.css",
+			"js/swiper.js",
+			"img/girl5.jpg",
+			"img/girl1.png",
+			"css/index.css",
+			"img/girl2.jpg",
+			"img/girl4.jpg",
+			"img/boy6.jpg",
+			"font/iconfont.woff",
+			"js/mui.min.js",
+			"js/zepto.min.js",
+			"css/mui.min.css",
+			"img/girl3.jpg",
+			"img/boy1.jpg",
+			"js/index.js",
+			"img/tx2.jpg",
+			"img/tx4.jpg",
+			"img/tx3.jpg",
+			"img/tx5.jpg",
+			"img/tx6.jpg",
+			"img/tx1.jpg",
+			"self.html",
+			"img/2.png",
+			"img/ll.png",
+			"img/3.png",
+			"img/1-1.png",
+			"img/4.png",
+			"shouye.html",
+			"login.html"
+		],
+		"refer": [
+			"self.html",
+			"shouye.html",
+			"login.html"
+		]
+	},
+	"self.html": {
+		"resources": [
+			"css/index.css",
+			"js/swiper.jquery.js",
+			"js/swiper.animate1.0.2.min.js",
+			"font/iconfont.woff",
+			"js/mui.min.js",
+			"js/zepto.min.js",
+			"css/mui.min.css",
+			"css/animate.css",
+			"css/swiper.css",
+			"js/swiper.js",
+			"js/index.js",
+			"img/1.png",
+			"img/tx6.jpg",
+			"img/fj1.jpg",
+			"img/fj2.jpg",
+			"img/fj3.jpg",
+			"img/fj6.jpg",
+			"img/fj5.jpg",
+			"img/fj4.jpg",
+			"shouye.html"
+		],
+		"refer": [
+			"shouye.html"
+		]
+	},
+	"shouye.html": {
+		"resources": [
+			"img/boy2.jpg",
+			"img/tx2.jpg",
+			"img/boy5.jpg",
+			"img/boy4.jpg",
+			"img/boy3.jpg",
+			"img/girl6.jpg",
+			"img/girl1.png",
+			"img/girl5.jpg",
+			"img/tx4.jpg",
+			"img/girl2.jpg",
+			"img/girl4.jpg",
+			"self.html",
+			"img/boy6.jpg",
+			"font/iconfont.woff",
+			"img/tx6.jpg",
+			"img/tx3.jpg",
+			"img/tx5.jpg",
+			"img/tx1.jpg",
+			"img/girl3.jpg",
+			"img/boy1.jpg",
+			"css/index.css",
+			"js/swiper.animate1.0.2.min.js",
+			"css/animate.css",
+			"js/mui.min.js",
+			"js/swiper.jquery.js",
+			"css/swiper.css",
+			"js/swiper.js",
+			"js/zepto.min.js",
+			"css/mui.min.css",
+			"js/index.js",
+			"info.html",
+			"chat.html"
+		],
+		"refer": [
+			"self.html",
+			"info.html",
+			"chat.html"
+		]
+	},
+	"login.html": {
+		"resources": [
+			"css/index.css",
+			"js/swiper.jquery.js",
+			"js/swiper.animate1.0.2.min.js",
+			"js/mui.min.js",
+			"js/zepto.min.js",
+			"css/mui.min.css",
+			"css/animate.css",
+			"css/swiper.css",
+			"js/swiper.js",
+			"js/index.js",
+			"img/5.png",
+			"img/tx6.jpg",
+			"font/iconfont.woff",
+			"font/iconfont.ttf",
+			"index.html"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"info.html": {
+		"resources": [
+			"css/index.css",
+			"js/swiper.jquery.js",
+			"js/swiper.animate1.0.2.min.js",
+			"js/mui.min.js",
+			"img/6.png",
+			"js/zepto.min.js",
+			"css/mui.min.css",
+			"css/animate.css",
+			"css/swiper.css",
+			"js/swiper.js",
+			"js/index.js",
+			"font/iconfont.woff",
+			"img/tx6.jpg",
+			"img/fj1.jpg",
+			"img/fj2.jpg",
+			"img/fj3.jpg",
+			"font/iconfont.ttf",
+			"shouye.html"
+		],
+		"refer": [
+			"shouye.html"
+		]
+	},
+	"chat.html": {
+		"resources": [
+			"css/index.css",
+			"js/swiper.jquery.js",
+			"js/swiper.animate1.0.2.min.js",
+			"js/mui.min.js",
+			"js/zepto.min.js",
+			"css/mui.min.css",
+			"css/animate.css",
+			"css/swiper.css",
+			"js/swiper.js",
+			"js/index.js",
+			"font/iconfont.woff",
+			"img/cat.jpg",
+			"shouye.html"
+		],
+		"refer": [
+			"shouye.html"
+		]
+	}
+}
